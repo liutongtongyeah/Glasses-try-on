@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/ARglasses/ARGlassesExample.unity
+    guid: e6b1c061d75dec44b8b04657ceef9ee9
+  - enabled: 0
+    path: Assets/ARglasses/ShowLicense.unity
+    guid: 47d6f4267b82db945b369373fdaa8fed
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/ARglasses/ARGlassesExample3D/ARGlassesExample3D.unity
+    guid: 63f1fb189940f464fbdb7d5b31d3eb06
+  - enabled: 1
+    path: Assets/ARglasses/ARGlassesExample2D/ARGlassesExample2D.unity
+    guid: 145d472ba92271e468406ca964537b8d
+  m_configObjects: {}
